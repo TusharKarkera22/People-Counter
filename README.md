@@ -1,3 +1,4 @@
 # People-Counter
 This is a simple people counter contains increment , save and show previous records.
-![image](https://user-images.githubusercontent.com/104358692/189400761-6fed7c1e-30a2-4383-8cdd-a350700fabeb.png)
+
+![people counter](https://user-images.githubusercontent.com/104358692/189400869-cdf7970a-c9df-49e1-817d-7648ad690c4d.png)
